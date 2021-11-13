@@ -1,5 +1,4 @@
 #include "includes.h"
-#include "main.h"
 /* Game: Genshin Impact.exe
 Version : 2.0v
 Date: 2021 - 11 - 13
