@@ -1,0 +1,2 @@
+# GenshinImpact-Base
+GenshinImpact-Base
